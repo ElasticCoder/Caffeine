@@ -1,0 +1,8 @@
+C:\Source Code\Elastic Computing\Caffeine\Caffeine\bin\Debug\Caffeine.exe.config
+C:\Source Code\Elastic Computing\Caffeine\Caffeine\obj\Debug\Caffeine.MainForm.resources
+C:\Source Code\Elastic Computing\Caffeine\Caffeine\obj\Debug\Caffeine.Properties.Resources.resources
+C:\Source Code\Elastic Computing\Caffeine\Caffeine\obj\Debug\Caffeine.csproj.GenerateResource.Cache
+C:\Source Code\Elastic Computing\Caffeine\Caffeine\bin\Debug\Caffeine.exe
+C:\Source Code\Elastic Computing\Caffeine\Caffeine\bin\Debug\Caffeine.pdb
+C:\Source Code\Elastic Computing\Caffeine\Caffeine\obj\Debug\Caffeine.exe
+C:\Source Code\Elastic Computing\Caffeine\Caffeine\obj\Debug\Caffeine.pdb
